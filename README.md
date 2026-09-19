@@ -1,4 +1,4 @@
-# Crypto-Rush
+no# Crypto-Rush
 
 Now with more than 10,000 crypto assets worth around $2.21 trillion, there’s a plethora of data
 that can help guide crypto supporters with various forms of insights and analysis. This data is a
